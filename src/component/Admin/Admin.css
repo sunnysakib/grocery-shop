@@ -1,0 +1,33 @@
+.adminProduct{
+    background-color: #F4FCFB;
+    
+}
+.sidebar{
+    background-color: #203d37;
+}
+
+.addProduct{
+    margin: 8% 4%;
+    padding: 4%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.sidebar h6{
+   color:white;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 15%;
+   padding: 5%;
+   width:110%;
+   background-color: #284640;
+}
+
+.sidebar h6:hover{
+    
+    background-color: #325a52;
+ }
+
+ .adminStyle{
+     height:88.9vh;
+ }

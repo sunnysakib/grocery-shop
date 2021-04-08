@@ -1,0 +1,26 @@
+.product{
+    height: 265px;
+    border-radius: 10px;
+    box-shadow: 1px 10px 10px 5px  rgba(128, 128, 128, 0.075);
+    margin: 8px 8px;
+}
+.product p{
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+.product img{
+    
+    margin-left: 15%;
+}
+
+.button button{
+    height: 30px;
+}
+
+.button h5{
+   color: #28a745;
+   font-weight:700;
+}

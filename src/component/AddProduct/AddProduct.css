@@ -1,0 +1,20 @@
+/* .addProduct{
+    margin: 8% 4%;
+    padding: 4%;
+    background-color: white;
+    border-radius: 10px;
+} */
+
+.addProduct form input{
+    width: 46%;
+    margin: 2%;
+}
+
+/* .imgBtn{
+    background: #DCFFEC;
+} */
+
+.submitBtn{
+    width: 20% !important;
+    background-color: #71BA58;
+}
